@@ -12,6 +12,18 @@
         "Conceptual": "Content",
         "ManagedReference": "Content"
       }
+    }，
+    {
+      "docset_name": "newdocset01",
+      "build_source_folder": null,
+      "build_output_subfolder": "newdocset01",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content"
+      }
     }
   ],
   "notification_subscribers": []
